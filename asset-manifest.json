@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fred_mcBride/static/css/main.bc1ad4b7.chunk.css",
+    "main.js": "/fred_mcBride/static/js/main.b672aa4c.chunk.js",
+    "main.js.map": "/fred_mcBride/static/js/main.b672aa4c.chunk.js.map",
+    "runtime~main.js": "/fred_mcBride/static/js/runtime~main.49ff71ba.js",
+    "runtime~main.js.map": "/fred_mcBride/static/js/runtime~main.49ff71ba.js.map",
+    "static/js/2.7ad91dd1.chunk.js": "/fred_mcBride/static/js/2.7ad91dd1.chunk.js",
+    "static/js/2.7ad91dd1.chunk.js.map": "/fred_mcBride/static/js/2.7ad91dd1.chunk.js.map",
+    "index.html": "/fred_mcBride/index.html",
+    "precache-manifest.85e76f27e5844f32c0c19eec2b201f9e.js": "/fred_mcBride/precache-manifest.85e76f27e5844f32c0c19eec2b201f9e.js",
+    "service-worker.js": "/fred_mcBride/service-worker.js",
+    "static/css/main.bc1ad4b7.chunk.css.map": "/fred_mcBride/static/css/main.bc1ad4b7.chunk.css.map",
+    "static/media/App.css": "/fred_mcBride/static/media/bg2.eea3cd9b.jpg",
+    "static/media/fredMcBride.jpeg": "/fred_mcBride/static/media/fredMcBride.6f34d3cb.jpeg",
+    "static/media/logo_transparent.png": "/fred_mcBride/static/media/logo_transparent.4ffc62d3.png"
+  }
+}
