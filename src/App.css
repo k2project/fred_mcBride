@@ -1,33 +1,61 @@
 .App {
-  text-align: center;
-}
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.bg_fixed{
+    background-image: url('./media/bg2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    left: 0;
+    position: fixed;
+    top:0;
+    width: 100vw;
+    opacity: .5;
 }
-
-.App-link {
-  color: #61dafb;
+section{
+    min-height: 100vh;
+    display: grid;
+    align-content: center;
+    padding: 15rem 0;
 }
+section.black{
+    background: rgba(0,0,0,.8);
+    color: #fff;
+}
+section.white{
+    background: rgba(240,240,240,.8);
+    color: #000;
+}
+.title{
+    font-size: 4rem;
+    font-weight: bold;
+    width: 80rem;
+    margin: auto;
+}
+.subtitle{
+    font-size: 2rem;
+    font-weight: bold;
+    margin: 5rem auto 4rem;
+    width: 80rem;
+    text-align: left;
+    line-height: 1.6;
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+}
+p{
+    font-size: 1.6rem;
+    line-height: 1.4;
+    margin: 1rem 0;
+    text-align: left;
+    width: 80rem;
+    margin: 1rem auto;
+}
+.p_intro{
+    margin: 4rem auto;
+    font-size: 1.8rem;
+}
+.btn{
+    background:#678964;
+    padding: 2rem 4rem;
+    font-size: 1.6rem;
+    font-weight: bold;
 }

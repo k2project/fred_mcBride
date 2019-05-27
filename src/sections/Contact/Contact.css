@@ -1,0 +1,32 @@
+.Contact p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 0;
+}
+.Contact .title{
+    position: absolute;
+    top: 15rem;
+    width: 100%;
+    text-align: center;
+}
+.Contact .subtitle{
+    text-align: center;
+    margin: 4rem auto;
+    font-size: 5.5rem;
+
+}
+
+#resume{
+    padding: 10rem 0 5rem;
+}
+.Contact a{
+    color:#678964;
+}
+
+footer{
+    position: absolute;
+    bottom: 4rem;
+    width: 100%;
+    font-size: 1.4rem;
+}
