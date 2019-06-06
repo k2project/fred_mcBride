@@ -18,7 +18,7 @@ function Resume() {
         <p>• Secured philanthropic investment to establish evidence-based early intervention, prevention and family support programmes</p>
         <p className="p_intro">Previous experience as Director of Social Work managing services to all care groups from “cradle to grave”.</p>
 
-        <div id="resume">
+        <div id="cv">
              <a href="/../../media/FredMcBrideResume.pdf" download className="btn">Download Fred's CV</a>
         </div>
 

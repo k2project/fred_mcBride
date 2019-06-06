@@ -18,9 +18,9 @@ export default Top;
 
 function Nav(){
     return <div className="Nav">
-        <a href="#aboutAMB">About</a>
-        <a href="#aboutFred">Management</a>
-        <a href="#resume">Resume</a>
+        <a href="#aboutAMB">About AMB</a>
+        <a href="#aboutFred">About Fred</a>
+        <a href="#cv">CV</a>
         <a href="#contact">Contact</a>
         {/* <a href="https://uk.linkedin.com/in/fred-mcbride-05427b171"><img src={linkedin} alt="linkedin link"/></a> */}
     </div>

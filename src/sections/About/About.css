@@ -1,3 +1,10 @@
 .About{
     padding-bottom: 20rem;
 }
+.About .subtitle{
+    text-align: center;
+}
+.About p{
+        text-align: justify;
+
+}
