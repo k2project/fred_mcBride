@@ -59,3 +59,54 @@ p{
     font-size: 1.6rem;
     font-weight: bold;
 }
+
+body.OpenSans{
+    font-family: 'Open Sans', sans-serif;
+}
+body.Lato{
+    font-family: 'Lato', sans-serif;
+}
+body.Montserrat{
+    font-family: 'Montserrat', sans-serif;
+}
+body.Raleway{
+    font-family: 'Raleway', sans-serif;
+}
+body.Muli{
+    font-family: 'Lato', sans-serif;
+}
+body.PTSerif{
+    font-family: 'PT Serif', serif;
+}
+body.NanumGothic{
+    font-family: 'Nanum Gothic', sans-serif;
+}
+body.Cardo{
+    font-family: 'Cardo', serif;
+}
+body.NanumMyeongjo{
+    font-family: 'Nanum Myeongjo', serif;
+}
+body.Quattrocento{
+    font-family: 'Quattrocento', serif;
+}
+
+
+
+
+
+
+.fonts{
+    font-family: sans-serif;
+    position: absolute;
+    top: 0;
+    right: 0;
+    color: #fff;
+    text-align: right;
+    padding: 2rem;
+}
+.fonts li{
+    margin: 1rem;
+    cursor: pointer;
+    font-size: 1.4rem;
+}
