@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/fred_mcBride/static/css/main.9fa866f7.chunk.css",
-    "main.js": "/fred_mcBride/static/js/main.c35d8545.chunk.js",
-    "main.js.map": "/fred_mcBride/static/js/main.c35d8545.chunk.js.map",
+    "main.css": "/fred_mcBride/static/css/main.78a56a3f.chunk.css",
+    "main.js": "/fred_mcBride/static/js/main.547d3872.chunk.js",
+    "main.js.map": "/fred_mcBride/static/js/main.547d3872.chunk.js.map",
     "runtime~main.js": "/fred_mcBride/static/js/runtime~main.49ff71ba.js",
     "runtime~main.js.map": "/fred_mcBride/static/js/runtime~main.49ff71ba.js.map",
     "static/js/2.07af2cd4.chunk.js": "/fred_mcBride/static/js/2.07af2cd4.chunk.js",
     "static/js/2.07af2cd4.chunk.js.map": "/fred_mcBride/static/js/2.07af2cd4.chunk.js.map",
     "index.html": "/fred_mcBride/index.html",
-    "precache-manifest.bd672c9f77203389de1c41e5e1d1e77f.js": "/fred_mcBride/precache-manifest.bd672c9f77203389de1c41e5e1d1e77f.js",
+    "precache-manifest.3a54aa378217a5b2ef983bdab8cc3bed.js": "/fred_mcBride/precache-manifest.3a54aa378217a5b2ef983bdab8cc3bed.js",
     "service-worker.js": "/fred_mcBride/service-worker.js",
-    "static/css/main.9fa866f7.chunk.css.map": "/fred_mcBride/static/css/main.9fa866f7.chunk.css.map",
+    "static/css/main.78a56a3f.chunk.css.map": "/fred_mcBride/static/css/main.78a56a3f.chunk.css.map",
     "static/media/App.css": "/fred_mcBride/static/media/bg2.b4273de2.jpg",
     "static/media/fredMcBride.jpeg": "/fred_mcBride/static/media/fredMcBride.6f34d3cb.jpeg",
-    "static/media/linkedinBlack.png": "/fred_mcBride/static/media/linkedinBlack.d374b1a9.png",
-    "static/media/logo_transparent.png": "/fred_mcBride/static/media/logo_transparent.4ffc62d3.png"
+    "static/media/logo_transparent.png": "/fred_mcBride/static/media/logo_transparent.e477a4e0.png"
   }
 }

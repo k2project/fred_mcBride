@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "277921e6736f6936e270387eecf2358d",
+    "revision": "36008db4b8584afc64aba64684328cef",
     "url": "/fred_mcBride/index.html"
   },
   {
-    "revision": "f84cb7ac2ba9314e6d02",
-    "url": "/fred_mcBride/static/css/main.9fa866f7.chunk.css"
+    "revision": "f378edb3bba6567a214b",
+    "url": "/fred_mcBride/static/css/main.78a56a3f.chunk.css"
   },
   {
     "revision": "2a030385037c72458674",
     "url": "/fred_mcBride/static/js/2.07af2cd4.chunk.js"
   },
   {
-    "revision": "f84cb7ac2ba9314e6d02",
-    "url": "/fred_mcBride/static/js/main.c35d8545.chunk.js"
+    "revision": "f378edb3bba6567a214b",
+    "url": "/fred_mcBride/static/js/main.547d3872.chunk.js"
   },
   {
     "revision": "1bf53fa1c1695f64f85b",
@@ -28,11 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fred_mcBride/static/media/fredMcBride.6f34d3cb.jpeg"
   },
   {
-    "revision": "d374b1a974d1afcf8633c39108cbb827",
-    "url": "/fred_mcBride/static/media/linkedinBlack.d374b1a9.png"
-  },
-  {
-    "revision": "4ffc62d303121efef896c55c92821322",
-    "url": "/fred_mcBride/static/media/logo_transparent.4ffc62d3.png"
+    "revision": "e477a4e027abfa19957cea22be53d472",
+    "url": "/fred_mcBride/static/media/logo_transparent.e477a4e0.png"
   }
 ]);
