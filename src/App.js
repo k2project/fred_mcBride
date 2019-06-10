@@ -13,18 +13,6 @@ function App() {
         <About/>
         <Resume/>
         <Contact/>
-        <ul className="fonts">
-            <li onClick={changeFont}>OpenSans</li>
-            <li onClick={changeFont}>Lato</li>
-            <li onClick={changeFont}>Montserrat</li>
-            <li onClick={changeFont}>Raleway</li>
-            <li onClick={changeFont}>Muli</li>
-            <li onClick={changeFont}>PTSerif</li>
-            <li onClick={changeFont}>NanumGothic</li>
-            <li onClick={changeFont}>NanumMyeongjo</li>
-            <li onClick={changeFont}>Cardo</li>
-            <li onClick={changeFont}>Quattrocento</li>
-        </ul>
     </div>
   );
 }
