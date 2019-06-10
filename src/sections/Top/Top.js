@@ -7,9 +7,11 @@ function Top() {
   return (
     <section className="Top black">
         <Nav/>
-        <img src={logo_transparent} alt="logo"/>
-        <div className="title">International Consultancy in Change Management and Business Administration. </div>
-        <div className="subtitle"> Director: Fred McBride </div>
+        <div className="wrapper">
+            <img src={logo_transparent} alt="logo"/>
+            <div className="title">International Consultancy <br/>in Change Management and Business Administration. </div>
+            <div className="subtitle"> Director: Fred McBride </div>
+        </div>
     </section>
   );
 }
@@ -22,6 +24,5 @@ function Nav(){
         <a href="#aboutFred">About Fred</a>
         <a href="#cv">CV</a>
         <a href="#contact">Contact</a>
-        {/* <a href="https://uk.linkedin.com/in/fred-mcbride-05427b171"><img src={linkedin} alt="linkedin link"/></a> */}
     </div>
 }

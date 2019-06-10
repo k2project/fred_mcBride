@@ -1,10 +1,9 @@
-.App {
 
-}
 .bg_fixed{
     background-image: url('./media/bg2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
+    background-position: center top;
     height: 100vh;
     left: 0;
     position: fixed;
@@ -26,19 +25,20 @@ section.white{
     background: rgba(240,240,240,.8);
     color: #000;
 }
+.wrapper{
+    width: 80rem;
+    margin: auto;
+}
 .title{
     font-size: 4rem;
     font-weight: bold;
-    width: 80rem;
-    margin: auto;
 }
 .subtitle{
     font-size: 2rem;
     font-weight: bold;
-    margin: 5rem auto 4rem;
-    width: 80rem;
+    margin: 5rem 0 4rem;
     text-align: left;
-    line-height: 1.6;
+    line-height: 1.4;
 
 }
 p{
@@ -46,11 +46,10 @@ p{
     line-height: 1.4;
     margin: 1rem 0;
     text-align: left;
-    width: 80rem;
-    margin: 1rem auto;
+    margin: 1rem 0;
 }
 .p_intro{
-    margin: 4rem auto;
+    margin: 4rem 0;
     font-size: 1.8rem;
 }
 .btn{
@@ -58,4 +57,31 @@ p{
     padding: 2rem 4rem;
     font-size: 1.6rem;
     font-weight: bold;
+    display: inline-block;
+    margin: 5rem auto 0;
+}
+@media only screen and (max-width: 1300px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+    .wrapper{
+        width: 80%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+    .title{
+        font-size: 3rem;
+    }
+    .subtitle{
+        font-size: 1.7rem;
+    }
+    .p_intro{
+        font-size: 1.6rem;
+    }
 }

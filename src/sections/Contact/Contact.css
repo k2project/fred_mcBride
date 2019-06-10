@@ -4,11 +4,7 @@
     font-size: 2.1rem;
 }
 .Contact .title{
-    position: absolute;
-    top: 15rem;
-    width: 100%;
-    text-align: center;
-    margin-bottom: 2rem;
+    margin-bottom: 8rem;
 
 }
 .Contact .subtitle{
@@ -19,12 +15,6 @@
 
 }
 
-#resume{
-    padding: 10rem 0 5rem;
-}
-.Contact a{
-    color:#678964;
-}
 .mail{
     height: 3rem;
     top: .8rem;
@@ -38,4 +28,33 @@ footer{
     bottom: 4rem;
     width: 100%;
     font-size: 1.4rem;
+}
+@media only screen and (max-width: 1300px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+    .Contact .subtitle{
+        font-size: 4.2rem;
+        line-height: 1.1;
+
+    }
+    .Contact p{
+        font-size: 2rem;
+    }
+    .mail{
+        display: none;
+    }
+    .linkedin{
+        height: 3.5rem;
+        margin-top: 1rem;
+    }
 }

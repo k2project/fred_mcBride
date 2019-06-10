@@ -2,10 +2,26 @@
     margin: 5rem auto 0;
     height: 30rem;
     border-radius: 100%;
-    /* opacity: .5; */
     top: -33rem;
     margin-bottom: -25rem;
 }
-.Resume .subtitle{
-    /* text-align: center; */
+@media only screen and (max-width: 1300px) {
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+
+}
+
+@media only screen and (max-width: 480px) {
+    .Resume img{
+        margin: 0 auto;
+        height: 20rem;
+        top: -30rem;
+        margin-bottom: -25rem;
+    }
 }

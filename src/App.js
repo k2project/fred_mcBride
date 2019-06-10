@@ -18,13 +18,3 @@ function App() {
 }
 
 export default App;
-
-function changeFont(e){
-    const b = document.querySelector('body');
-    const cls = e.target.textContent;
-    b.className = cls;
-    console.log(b)
-    const lis = document.querySelectorAll('.fonts li');
-    lis.forEach(li=>li.style.color = '#fff')
-    e.target.style.color = 'crimson';
-}

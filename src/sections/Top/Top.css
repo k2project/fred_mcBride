@@ -1,14 +1,11 @@
-.Top{
 
-}
 .Top img{
-    margin: -5rem auto -5rem;
-    height: 40rem;
+    margin: 5rem auto;
+    width: 40rem;
 }
 .Top .title{
     font-size: 2.5rem;
     font-weight: 400;
-    text-align: center;
 }
 .Top .subtitle{
     text-align: center;
@@ -21,11 +18,41 @@
     width: 100%;
 }
 
-.Nav img{
-    width: 2rem;
-    height: 2rem;
-}
 .Nav a{
-    font-size: 1.6rem;
-    padding: 0 1.5rem;
+    font-size: 1.7rem;
+    padding: 0 2rem;
+}
+
+@media only screen and (max-width: 1300px) {
+    .Top img{
+        width: 35rem;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .Top img{
+        width: 30rem;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+
+    .Nav a{
+        font-size: 1.7rem;
+        padding: 0 1rem;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    .Top .title{
+        font-size: 2rem;
+    }
+    .Top img{
+        width: 90%;
+    }
+    .Nav a{
+        font-size: 1.4rem;
+        padding: 0 .8rem;
+    }
 }
