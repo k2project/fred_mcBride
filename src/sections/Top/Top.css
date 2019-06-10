@@ -1,15 +1,19 @@
 
 .Top img{
-    margin: 5rem auto;
+    margin: 7rem auto 2rem;
     width: 40rem;
 }
 .Top .title{
-    font-size: 2.5rem;
+    font-size: 2.2rem;
+    line-height: 1.5;
     font-weight: 400;
+    text-transform: uppercase;
+
 }
 .Top .subtitle{
     text-align: center;
-    margin-top: 2rem;
+    margin-top: 1rem;
+    font-size: 1.7rem;
 }
 
 .Nav{
@@ -30,13 +34,16 @@
 }
 
 @media only screen and (max-width: 1024px) {
+
     .Top img{
         width: 30rem;
     }
 }
 
 @media only screen and (max-width: 768px) {
-
+    .Top .title{
+        font-size: 2rem;
+    }
     .Nav a{
         font-size: 1.7rem;
         padding: 0 1rem;
@@ -46,7 +53,7 @@
 @media only screen and (max-width: 480px) {
 
     .Top .title{
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
     .Top img{
         width: 90%;

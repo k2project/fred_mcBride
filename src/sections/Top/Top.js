@@ -9,7 +9,7 @@ function Top() {
         <Nav/>
         <div className="wrapper">
             <img src={logo_transparent} alt="logo"/>
-            <div className="title">International Consultancy <br/>in Change Management and Business Administration. </div>
+            <div className="title">International Consultancy <br/>in Change Management and Business Administration </div>
             <div className="subtitle"> Director: Fred McBride </div>
         </div>
     </section>
