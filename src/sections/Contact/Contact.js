@@ -9,8 +9,17 @@ function Contact() {
         <div className="wrapper">
             <div className="title">Contact</div>
             <div className="subtitle">Fred McBride</div>
-            <p><img src={mail} alt="fred@ambcollaborative.com" className="mail"/> fred@ambcollaborative.com</p>
-            <p> <a href="https://uk.linkedin.com/in/fred-mcbride-05427b171"><img src={linkedinBlack} alt="linkedin:Fred McBride " className="linkedin"/></a></p>
+            <p>
+                <a href="mailto:fred@ambcollaborative.com?subject=Mail from Your Site.">
+                    <img src={mail} alt="fred@ambcollaborative.com" className="mail"/>
+                    fred@ambcollaborative.com
+                </a>
+            </p>
+            <p>
+                <a href="https://uk.linkedin.com/in/fred-mcbride-05427b171" target="_blank">
+                    <img src={linkedinBlack} alt="linkedin:Fred McBride " className="linkedin"/>
+                </a>
+            </p>
 
         </div>
         <Footer/>

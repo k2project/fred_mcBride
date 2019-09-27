@@ -20,7 +20,7 @@ function Resume() {
             <p className="p_intro">Previous experience as Director of Social Work managing services to all care groups from “cradle to grave”.</p>
 
             <div id="cv">
-                <a href="/../../media/FredMcBrideResume.pdf" download className="btn">Download Fred's CV</a>
+                <a href="http://www.ambcollaborative.com/FredMcBrideCV.pdf" download="FredMcBrideCV.pdf" className="btn" target="_blank">Download Fred's CV</a>
             </div>
         </div>
 
